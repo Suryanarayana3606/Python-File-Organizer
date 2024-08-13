@@ -1,2 +1,2 @@
 # Python-File-Organizer
-Fushion tech internship
+Fusion tech internship
